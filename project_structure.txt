@@ -1,0 +1,47 @@
+Folder PATH listing for volume Windows
+Volume serial number is CA9B-F22D
+C:.
+|   project_structure.txt
+|   yolo11s.pt
+|   
++---models
+|       best.pt
+|       
++---results
+|       lumora_validation_20261008_195807_events.csv
+|       lumora_validation_20261008_195807_functional_tests.csv
+|       lumora_validation_20261008_195807_performance.csv
+|       lumora_validation_20261008_195807_summary.txt
+|       lumora_validation_20261008_204149_events.csv
+|       lumora_validation_20261008_204149_functional_tests.csv
+|       lumora_validation_20261008_204149_performance.csv
+|       lumora_validation_20261008_204149_summary.txt
+|       lumora_validation_20261008_205915_events.csv
+|       lumora_validation_20261008_205915_functional_tests.csv
+|       lumora_validation_20261008_205915_performance.csv
+|       lumora_validation_20261008_205915_summary.txt
+|       lumora_validation_20261008_210414_events.csv
+|       lumora_validation_20261008_210414_functional_tests.csv
+|       lumora_validation_20261008_210414_performance.csv
+|       lumora_validation_20261008_210414_summary.txt
+|       lumora_validation_20261009_102810_events.csv
+|       lumora_validation_20261009_102810_functional_tests.csv
+|       lumora_validation_20261009_102810_performance.csv
+|       lumora_validation_20261009_102810_summary.txt
+|       lumora_validation_20261009_103522_events.csv
+|       lumora_validation_20261009_103522_functional_tests.csv
+|       lumora_validation_20261009_103522_performance.csv
+|       lumora_validation_20261009_103522_summary.txt
+|       lumora_validation_20261009_112945_events.csv
+|       lumora_validation_20261009_112945_functional_tests.csv
+|       lumora_validation_20261009_112945_performance.csv
+|       lumora_validation_20261009_112945_summary.txt
+|       lumora_validation_20261022_221834_events.csv
+|       lumora_validation_20261022_221834_functional_tests.csv
+|       lumora_validation_20261022_221834_performance.csv
+|       lumora_validation_20261022_221834_summary.txt
+|       
+\---src
+        lumora_realtime.py
+        yolo11s.pt
+        

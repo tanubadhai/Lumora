@@ -1,0 +1,15 @@
+timestamp,frame,event,track_id,object,confidence,position,proximity,movement,cade_score,risk,alert
+2026-10-08 21:04:28.402,28,CADE_ALERT,1,person,0.940,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 21:04:32.909,39,CADE_ALERT,1000,traffic light,0.752,CENTER,NEAR,APPROACHING,6,HIGH,traffic light approaching ahead
+2026-10-08 21:05:22.816,145,CADE_ALERT,1,teddy bear,0.899,CENTER,NEAR,APPROACHING,6,HIGH,teddy bear approaching ahead
+2026-10-08 21:05:33.245,171,CADE_ALERT,17,donut,0.363,LEFT,NEAR,APPROACHING,5,HIGH,donut approaching from your left
+2026-10-08 21:05:42.114,193,CADE_ALERT,20,teddy bear,0.856,RIGHT,NEAR,APPROACHING,5,HIGH,teddy bear approaching from your right
+2026-10-08 21:05:47.318,206,CADE_ALERT,17,person,0.934,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 21:06:04.623,249,CADE_ALERT,1005,traffic light,0.651,CENTER,NEAR,APPROACHING,6,HIGH,traffic light approaching ahead
+2026-10-08 21:06:07.182,255,CADE_ALERT,17,person,0.932,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 21:06:27.442,300,CADE_ALERT,17,person,0.501,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 21:06:29.991,306,CADE_ALERT,24,teddy bear,0.415,CENTER,NEAR,APPROACHING,6,HIGH,teddy bear approaching ahead
+2026-10-08 21:06:32.952,313,CADE_ALERT,17,person,0.601,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 21:06:38.025,325,CADE_ALERT,17,person,0.933,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 21:06:56.124,370,CADE_ALERT,29,motorcycle,0.911,CENTER,NEAR,APPROACHING,7,HIGH,motorcycle approaching ahead
+2026-10-08 21:07:02.294,385,CADE_ALERT,17,person,0.935,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead

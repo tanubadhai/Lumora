@@ -1,0 +1,42 @@
+timestamp,frame,event,track_id,object,confidence,position,proximity,movement,cade_score,risk,alert
+2026-10-09 10:35:29.189,9,CADE_ALERT,1,person,0.956,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:35:36.900,25,CADE_ALERT,1,person,0.944,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:35:42.749,37,CADE_ALERT,2,person,0.938,RIGHT,NEAR,APPROACHING,6,HIGH,person approaching from your right
+2026-10-09 10:35:45.568,43,CADE_ALERT,1,person,0.864,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:35:48.139,48,CADE_ALERT,2,bottle,0.925,RIGHT,NEAR,APPROACHING,5,HIGH,bottle approaching from your right
+2026-10-09 10:35:53.277,59,CADE_ALERT,2,person,0.754,RIGHT,NEAR,APPROACHING,6,HIGH,person approaching from your right
+2026-10-09 10:35:58.557,70,CADE_ALERT,17,person,0.692,RIGHT,NEAR,APPROACHING,6,HIGH,person approaching from your right
+2026-10-09 10:36:03.950,81,CADE_ALERT,17,person,0.477,RIGHT,NEAR,APPROACHING,6,HIGH,person approaching from your right
+2026-10-09 10:36:09.611,93,CADE_ALERT,38,person,0.920,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:36:12.471,99,CADE_ALERT,17,person,0.902,RIGHT,NEAR,APPROACHING,6,HIGH,person approaching from your right
+2026-10-09 10:36:28.194,133,CADE_ALERT,55,person,0.851,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:36:33.737,144,CADE_ALERT,55,person,0.696,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:36:39.923,157,CADE_ALERT,2,person,0.819,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:36:55.197,190,CADE_ALERT,2,person,0.888,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:37:04.195,209,CADE_ALERT,55,person,0.751,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:37:25.022,254,CADE_ALERT,55,person,0.535,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:37:30.471,265,CADE_ALERT,55,person,0.659,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:37:36.324,276,CADE_ALERT,55,person,0.901,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:37:39.379,282,CADE_ALERT,93,cell phone,0.865,CENTER,MEDIUM,APPROACHING,5,HIGH,cell phone approaching ahead
+2026-10-09 10:37:42.479,288,CADE_ALERT,2,person,0.954,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:37:46.273,296,CADE_ALERT,55,person,0.887,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:37:48.894,301,CADE_ALERT,17,cell phone,0.944,CENTER,NEAR,APPROACHING,6,HIGH,cell phone approaching ahead
+2026-10-09 10:37:55.008,314,CADE_ALERT,2,person,0.844,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:38:03.483,329,CADE_ALERT,134,person,0.900,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:38:09.496,341,CADE_ALERT,120,motorcycle,0.902,RIGHT,NEAR,APPROACHING,6,HIGH,motorcycle approaching from your right
+2026-10-09 10:38:13.509,349,CADE_ALERT,2,person,0.893,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:38:18.420,359,CADE_ALERT,55,person,0.430,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:38:24.206,371,CADE_ALERT,2,person,0.356,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-09 10:38:27.948,378,CADE_ALERT,55,person,0.592,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:38:30.927,384,CADE_ALERT,161,cell phone,0.923,CENTER,MEDIUM,APPROACHING,5,HIGH,cell phone approaching ahead
+2026-10-09 10:38:39.094,401,CADE_ALERT,17,person,0.502,RIGHT,NEAR,APPROACHING,6,HIGH,person approaching from your right
+2026-10-09 10:38:42.108,407,CADE_ALERT,55,person,0.612,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:38:47.151,417,CADE_ALERT,55,person,0.723,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-09 10:38:51.535,426,CADE_ALERT,169,person,0.598,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:38:57.170,438,CADE_ALERT,169,person,0.535,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:39:09.792,465,CADE_ALERT,2,person,0.946,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:39:18.958,485,CADE_ALERT,188,person,0.897,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:39:30.033,508,CADE_ALERT,17,person,0.930,RIGHT,NEAR,APPROACHING,6,HIGH,person approaching from your right
+2026-10-09 10:39:33.296,515,CADE_ALERT,188,person,0.588,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:39:35.824,519,CADE_ALERT,2,person,0.949,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left
+2026-10-09 10:39:41.190,529,CADE_ALERT,188,person,0.811,LEFT,NEAR,APPROACHING,6,HIGH,person approaching from your left

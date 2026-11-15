@@ -1,0 +1,4 @@
+timestamp,frame,fps,frame_processing_ms,general_yolo_ms,road_yolo_ms,detections,hazard_candidates,priority_object,priority_score
+2026-10-09 10:28:19.777,10,1.115,388.713,385.779,0.000,2,1,person,7
+2026-10-09 10:28:25.447,20,1.371,510.870,488.737,0.000,1,1,person,7
+2026-10-09 10:28:31.280,30,1.472,698.966,348.304,345.643,1,0,,

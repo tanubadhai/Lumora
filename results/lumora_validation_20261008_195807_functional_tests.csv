@@ -1,0 +1,3 @@
+timestamp,test_number,expected_condition,actual_alert,classification,object,position,proximity,movement,cade_score,alert_message
+2026-10-08 19:59:01.132,1,NO_HAZARD,NO_ALERT,TRUE_NEGATIVE,,,,,,
+2026-10-08 20:00:27.300,2,HAZARD,NO_ALERT,FALSE_NEGATIVE,,,,,,

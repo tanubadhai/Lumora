@@ -1,0 +1,7 @@
+timestamp,frame,event,track_id,object,confidence,position,proximity,movement,cade_score,risk,alert
+2026-10-22 22:19:04.107,47,CADE_ALERT,1,cell phone,0.751,CENTER,NEAR,APPROACHING,6,HIGH,cell phone approaching ahead
+2026-10-22 22:19:51.691,156,CADE_ALERT,99,cell phone,0.817,RIGHT,NEAR,APPROACHING,5,HIGH,cell phone approaching from your right
+2026-10-22 22:19:55.905,166,CADE_ALERT,1,cell phone,0.578,CENTER,NEAR,APPROACHING,6,HIGH,cell phone approaching ahead
+2026-10-22 22:20:11.664,204,CADE_ALERT,99,person,0.930,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-22 22:20:48.950,292,CADE_ALERT,150,person,0.922,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-22 22:21:13.426,352,CADE_ALERT,150,person,0.931,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead

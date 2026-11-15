@@ -1,0 +1,23 @@
+timestamp,frame,event,track_id,object,confidence,position,proximity,movement,cade_score,risk,alert
+2026-10-08 20:42:05.048,30,CADE_ALERT,1000,traffic light,0.564,CENTER,NEAR,APPROACHING,6,HIGH,traffic light approaching ahead
+2026-10-08 20:42:10.117,42,CADE_ALERT,1000,traffic light,0.813,CENTER,NEAR,APPROACHING,6,HIGH,traffic light approaching ahead
+2026-10-08 20:42:14.536,52,CADE_ALERT,1,person,0.934,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 20:42:25.883,79,CADE_ALERT,1,person,0.933,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 20:42:29.371,87,CADE_ALERT,1003,traffic light,0.653,RIGHT,NEAR,APPROACHING,5,HIGH,traffic light approaching from your right
+2026-10-08 20:42:44.766,125,CADE_ALERT,1,person,0.959,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 20:42:47.983,132,CADE_ALERT,1003,traffic light,0.721,CENTER,NEAR,APPROACHING,6,HIGH,traffic light approaching ahead
+2026-10-08 20:42:58.495,158,CADE_ALERT,6,teddy bear,0.905,RIGHT,NEAR,APPROACHING,5,HIGH,teddy bear approaching from your right
+2026-10-08 20:43:08.029,181,CADE_ALERT,10,teddy bear,0.773,LEFT,NEAR,APPROACHING,5,HIGH,teddy bear approaching from your left
+2026-10-08 20:43:53.020,265,CADE_ALERT,14,teddy bear,0.845,LEFT,NEAR,APPROACHING,5,HIGH,teddy bear approaching from your left
+2026-10-08 20:44:02.257,286,CADE_ALERT,14,teddy bear,0.762,LEFT,NEAR,APPROACHING,5,HIGH,teddy bear approaching from your left
+2026-10-08 20:44:09.885,304,CADE_ALERT,21,teddy bear,0.832,RIGHT,NEAR,APPROACHING,5,HIGH,teddy bear approaching from your right
+2026-10-08 20:44:35.438,358,CADE_ALERT,1,person,0.861,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 20:44:44.602,380,CADE_ALERT,27,cell phone,0.905,CENTER,MEDIUM,APPROACHING,5,HIGH,cell phone approaching ahead
+2026-10-08 20:44:47.118,386,CADE_ALERT,1,person,0.575,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 20:44:52.958,400,CADE_ALERT,25,teddy bear,0.749,RIGHT,NEAR,APPROACHING,5,HIGH,teddy bear approaching from your right
+2026-10-08 20:45:00.301,417,CADE_ALERT,1,person,0.938,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 20:45:24.649,465,CADE_ALERT,1,person,0.927,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 20:45:29.926,477,CADE_ALERT,1,person,0.927,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 20:45:35.110,488,CADE_ALERT,1,person,0.930,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-08 20:45:39.598,495,CADE_ALERT,1014,traffic light,0.813,CENTER,NEAR,APPROACHING,6,HIGH,traffic light approaching ahead
+2026-10-08 20:45:44.962,504,CADE_ALERT,1014,traffic light,0.812,CENTER,NEAR,APPROACHING,6,HIGH,traffic light approaching ahead

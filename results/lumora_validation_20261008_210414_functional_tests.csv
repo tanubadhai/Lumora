@@ -1,0 +1,9 @@
+timestamp,test_number,expected_condition,actual_alert,classification,object,position,proximity,movement,cade_score,alert_message
+2026-10-08 21:04:23.385,1,NO_HAZARD,NO_ALERT,TRUE_NEGATIVE,,,,,,
+2026-10-08 21:04:31.724,2,HAZARD,ALERT,TRUE_POSITIVE,person,CENTER,NEAR,APPROACHING,7,person approaching ahead
+2026-10-08 21:05:36.426,3,HAZARD,ALERT,TRUE_POSITIVE,donut,LEFT,NEAR,APPROACHING,5,donut approaching from your left
+2026-10-08 21:05:45.459,4,HAZARD,ALERT,TRUE_POSITIVE,teddy bear,RIGHT,NEAR,APPROACHING,5,teddy bear approaching from your right
+2026-10-08 21:05:56.618,5,NO_HAZARD,ALERT,FALSE_POSITIVE,person,CENTER,NEAR,APPROACHING,7,person approaching ahead
+2026-10-08 21:06:01.075,6,NO_HAZARD,NO_ALERT,TRUE_NEGATIVE,,,,,,
+2026-10-08 21:06:34.326,7,HAZARD,ALERT,TRUE_POSITIVE,person,CENTER,NEAR,APPROACHING,7,person approaching ahead
+2026-10-08 21:06:58.979,8,HAZARD,ALERT,TRUE_POSITIVE,motorcycle,CENTER,NEAR,APPROACHING,7,motorcycle approaching ahead

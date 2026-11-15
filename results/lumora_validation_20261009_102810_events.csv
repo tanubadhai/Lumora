@@ -1,0 +1,3 @@
+timestamp,frame,event,track_id,object,confidence,position,proximity,movement,cade_score,risk,alert
+2026-10-09 10:28:17.795,6,CADE_ALERT,1,person,0.911,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead
+2026-10-09 10:28:25.431,20,CADE_ALERT,1,person,0.923,CENTER,NEAR,APPROACHING,7,HIGH,person approaching ahead

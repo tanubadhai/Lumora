@@ -1,0 +1,36 @@
+LUMORA VALIDATION SUMMARY
+============================================================
+
+Session information
+------------------------------------------------------------
+Session: lumora_validation_20261009_102810
+Runtime seconds: 22.61
+Frames processed: 35
+Alerts generated: 2
+
+Runtime performance
+------------------------------------------------------------
+Average smoothed FPS: 1.869
+Average frame processing: 535.143 ms
+Average general YOLO: 403.822 ms
+Average road YOLO: 399.740 ms
+
+Manual functional validation
+------------------------------------------------------------
+Total tests: 0
+True positives: 0
+False positives: 0
+True negatives: 0
+False negatives: 0
+
+Functional precision: 0.0000
+Functional recall: 0.0000
+Functional accuracy: 0.0000
+False-alert rate: 0.0000
+Missed-hazard rate: 0.0000
+
+Interpretation note
+------------------------------------------------------------
+Functional metrics are based only on manually marked controlled scenarios.
+They are not substitutes for detector validation metrics from the held-out dataset.
+YOLO Precision, Recall, mAP@50 and mAP@50-95 come from the detector validation set.

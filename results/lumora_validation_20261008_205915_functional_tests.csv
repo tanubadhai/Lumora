@@ -1,0 +1,4 @@
+timestamp,test_number,expected_condition,actual_alert,classification,object,position,proximity,movement,cade_score,alert_message
+2026-10-08 20:59:32.834,1,HAZARD,NO_ALERT,FALSE_NEGATIVE,,,,,,
+2026-10-08 20:59:41.852,2,HAZARD,ALERT,TRUE_POSITIVE,person,CENTER,NEAR,APPROACHING,7,person approaching ahead
+2026-10-08 20:59:52.760,3,HAZARD,ALERT,TRUE_POSITIVE,teddy bear,RIGHT,NEAR,APPROACHING,5,teddy bear approaching from your right
